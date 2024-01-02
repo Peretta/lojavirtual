@@ -34,7 +34,7 @@ git switch nome  // ENTRAR NA BRANCH
 
 git switch -c nome // Criar e entrar na BRANCH
 
-1)IR PARA A BRANCH IRÁ PERMANECER
+1) IR PARA A BRANCH IRÁ PERMANECER
 2) git merge nome
 
 	========GITIGNORE========
