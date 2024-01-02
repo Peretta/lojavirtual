@@ -13,7 +13,7 @@ git status
 
 git add .
 
-	========FAZENDO O PRIMEIRO COMMIT
+	========FAZENDO O PRIMEIRO COMMIT========
 
 git commit -m "creating initial files"
 
